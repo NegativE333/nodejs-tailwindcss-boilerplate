@@ -20,22 +20,27 @@ To get started with integrating Tailwind CSS into your Node.js project, follow t
 git clone https://github.com/NegativE333/nodejs-tailwindcss-boilerplate
 ```
 
-2. **Install Dependencies**: Navigate to the project directory and install the required dependencies by running:
+2. Navigate to the project directory:
+```bash
+cd nodejs-tailwindcss-boilerplate
+```
+
+3. **Install Dependencies**: Navigate to the project directory and install the required dependencies by running:
 ```bash
 npm install
 ```
 
-3. **Start the Server**: Start the Node.js server in development mode with auto-reloading using:
+4. **Start the Server**: Start the Node.js server in development mode with auto-reloading using:
 ```bash
 npm run dev
 ```
 
-4. **Watch for CSS Changes**: Open a new terminal window and watch for changes in Tailwind CSS files using:
+5. **Watch for CSS Changes**: Open a new terminal window and watch for changes in Tailwind CSS files using:
 ```bash
 npm run style
 ```
 
-5. **Explore and Customize**: Explore the project structure, customize the styling, and add additional features as needed to suit your project requirements.
+6. **Explore and Customize**: Explore the project structure, customize the styling, and add additional features as needed to suit your project requirements.
 
 ### Project Structure
 - **index.js**: Configuration file for setting up the Express.js server.
